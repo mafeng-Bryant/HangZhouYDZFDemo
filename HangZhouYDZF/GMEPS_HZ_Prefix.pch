@@ -1,0 +1,62 @@
+//
+// Prefix header for all source files of the 'EPad' target in the 'EPad' project
+//
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iPhone SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <CoreData/CoreData.h>
+#endif
+
+#define KCurrentPolutionSite @"KCurrentPolutionSite"
+#define KQueueServiceURL       @"http://%@/QueueService.asmx"
+#define kStatistics_URL @"http://%@/PollutionStatisticsService.asmx"
+#define kTaskService_URL @"http://%@/TaskService.asmx"
+#define KYYYD_URL     @"http://%@/PollutionStatisticsService.asmx"
+#define KDBRW_URL     @"http://%@/SupervisionTask.asmx"
+#define KExamine_URL  @"http://%@/ExamineService.asmx"
+#define KSoapNameSpace @"http://tempuri.org/"
+#define KLogIn_URL   @"http://%@/OnLineLogin.asmx"
+#define kLedger_URL  @"http://%@/InspectionRecordService.asmx"
+#define kLedger_URL1  @"http://%@/WS_Main.asmx"
+
+#define kHistory_URL  @"http://%@/InspectionRecordService.asmx"//获取历史笔录
+
+#define KYYYDURL_FMT @"http://%@/yyyd/Business/wrygl/YdzfRedirect.aspx?wrybh=%@&type=%@&userid=system"
+
+#define KATTACH_URL   @"http://%@/AttachMent.asmx"
+
+#define PHOTO_URL    @"http://%@/WS_Main.asmx"
+#define kUserNameKey @"user"
+#define kUserPwdKey  @"pwd"
+#define kSavePwd     @"ispwd_save"
+
+
+
+
+//执法模块的基类
+
+#define kAlert_Choose     1 //选择确定、取消
+#define kAlert_GenXCZFBH 2 //现场执法编号
+
+#define Record_None      0 //没做任何处理
+#define Record_SaveLocal 11 //暂存在本地
+#define Record_Commited_Success 12 //提交记录成功
+#define Record_Commited_Failed  13 //提交记录失败
+
+#define COMMIT_BILU_ALERT 999
+#define COMMIT_BILU       888
+#define COMMIT_SAVE_BILU  777
+#define updateEdition     666   //版本更新
+#define updateEnd         665   //结束版本更新
+#define limitUpdate       555   //限制版本的更新，规定为多少天
+#define zancunBilu       @"zancunBilu.plist"   //暂存plist文件名
+ 
+#define DataBase_TYPE 0
+#define LIGHT_BLUE_UICOLOR [UIColor colorWithRed:238.0f/255.0 green:244.0f/255.0 blue:255.0f/255.0 alpha:1.0f]

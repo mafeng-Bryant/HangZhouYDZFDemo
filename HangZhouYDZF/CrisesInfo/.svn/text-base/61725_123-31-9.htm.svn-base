@@ -1,0 +1,141 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="61" height="212">　</td>
+					<td width="812" height="212">
+                    一、健康危害<p>&nbsp; 侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp; 健康危害：毒性比酚大，对皮肤、粘膜有强烈的腐蚀作用，可抑制中枢神经系统或损害肝、皮肤功能。<br>
+                    &nbsp; 
+                    急性中毒：吸入高浓度蒸气，可致头痛、头昏、乏力、视物模糊、肺水肿等；误服可出现头痛、头晕、耳鸣、苍白、紫绀、恶心、呕吐、腹育、呼吸困难、心动过速、尺厥、谵妄和虚脱 
+                    ，严重者呕血、血尿、溶血性黄疸，甚至可致死。<br>
+                    &nbsp; 慢性影响：长期低浓度吸入，可致头痛、头晕、咳嗽、食欲减退、恶心、呕吐等。皮肤可引起皮炎。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 急性毒性：LD<sub>50</sub>&nbsp;320mg/kg(大鼠经口)；人经口5000mg/kg，死亡。<br>
+                    &nbsp; 刺激性：人经皮：250mg (24小时)，轻度刺激。<br>
+                    &nbsp; 
+                    亚急性和慢性毒性：动物亚急性中毒表现为溶血性黄疸、贫血、白细胞增多、红细胞脆性增加、低血糖、皮毛无光泽和明显的恶病质。<br>
+                    &nbsp; 
+                    致突变性：微生物致突变性：鼠伤寒沙门氏菌2umol/皿。微核试验：人淋巴细胞75umol/L。性染色体缺失和不分离：人淋巴细胞6mg/kg。DNA损伤：人骨髓500mol/L。<br>
+                    &nbsp; 生殖毒性：大鼠经口最低中毒剂量(TDL<sub>0</sub>)：2500mg/kg(孕1～22天)，致植入后的死亡率(51天，雄性)，影响睾丸、附睾、输精管、前列腺、精囊等，对雄性生育指数有影响。<br>
+                    &nbsp; 致癌性：IARC致癌性评论：动物不明确，人类无可靠数据。</p>
+                    <p>&nbsp; 危险特性：遇明火、高热可燃。与强氧化剂可发生反应。受高热分解放出有毒的气体。<br>
+                    &nbsp; 燃烧(分解)产物：一氧化碳、二氧化碳。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="61">　</td>
+					
+    <td height="46" width="812"> 　<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="61">　<p>　</td>
+					
+    <td height="46" width="812"> 气相色谱法，参照《分析化学手册》(第四分册，色谱分析)，化学工业<br>
+    空气中：样品经滤器收集后，用酸洗脱，再用高压液相色谱法测定(NIOSH法)<br>
+    高效液相色谱法测定焦化废水中的酚类化合物[刊]/张万让等//新疆环境保护1989,(1).-49～52<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="61">　</td>
+					<td height="98" width="812">
+						<table width="100%" border="1">
+                          <tr>
+                            <td width="27%">前苏联(1975)</td>
+                            <td width="45%"><font face="宋体">作业环境空气中有害物质的允许浓度</font></td>
+                            <td width="28%">2mg/m<sup>3</sup></td>
+                          </tr>
+                          <tr>
+                            <td width="27%">前苏联(1978)</td>
+                            <td width="45%">地面水中最高容许浓度</td>
+                            <td width="28%">0.2mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="27%">前苏联(1975)</td>
+                            <td width="45%">污水排放标准</td>
+                            <td width="28%">0.5mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="27%">　</td>
+                            <td width="45%">水中嗅觉阈浓度</td>
+                            <td width="28%">5mg/L</td>
+                          </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <p class="bingdazi"> 
+        应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+      </p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="61">　</td>
+					<td height="314" width="812">一、泄漏应急处理<p>&nbsp; 
+                    隔离泄漏污染区，周围设警标志，建议应急处理人员戴好防毒面具，穿化学防护服。不要直接接触泄漏物，避免扬尘，用清洁的铲子收集于干燥净洁有盖的容器中，运至废物场所。也可以用大量水冲洗，经稀释的洗水放入废水系统。如大量泄漏，收集回收或无害处理后废弃。<br>
+                    &nbsp; 废弃物处置方法：用焚烧法。焚烧炉排出的气体通过洗涤器除去有害成份。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：空气中浓度超标时，必须佩带防毒面具。紧急事态抢救或逃生时，佩带自给式呼吸器。<br>
+                    &nbsp; 眼睛防护：戴化学安全防护眼镜。<br>
+                    &nbsp; 防护服：穿相应的防护服。<br>
+                    &nbsp; 手防护：戴防化学品手套。<br>
+                    &nbsp; 其它：工作现场禁止吸烟、进食和饮水。工作后，彻底清洗。单独存入被毒物污染的衣服，洗后再用。注意个人清洁卫生。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp; 
+                    皮肤接触：立即脱去污染的衣着，用甘油、聚乙烯乙二醇或聚乙烯乙二醇和酒精混合液(7:3)抹擦。然后用水彻底冲洗。或立即用水冲洗至少15分钟。就医。<br>
+                    &nbsp; 眼睛接触：立即提起眼睑，用流动清水或生理盐水冲洗至少15分钟。就医。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。呼吸困难时给输氧。呼吸停止时，立即进行人工呼吸。就医。<br>
+                    &nbsp; 食入：患者清醒时立即给饮植物油15～30ml。催吐，尽快彻底洗胃。就医。</p>
+                    <p>&nbsp; 灭火方法：雾状水、泡沫、二氧化碳、干粉、砂土。</p>
+                    <p>&nbsp; 废弃物处置方法：用焚烧法。焚烧炉排出的气体通过洗涤器除去有害成份。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+			</table>
+		</TD>
+		</TR> </TABLE>
+	</BODY>
+</HTML>

@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="72" height="212">　</td>
+					<td width="801" height="212">一、健康危害<p>&nbsp; 侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp; 健康危害：苯胺的毒作用，主要因形成的高铁血红蛋白所致，造成组织缺氧，引起中枢神经系统、心血管系统和其它脏器损害。<br>
+                    &nbsp; 
+                    急性中毒：中毒者的口唇、指端、耳廓发绀，病人有恶心、呕吐、手指发麻、精神恍惚等；重度中毒进，皮肤、粘膜严重青紫，出现心悸、呼吸困难、抽搐甚至昏迷、休克；重笃者可出现溶血性黄疸、中毒性肝炎、中毒性肾损伤。<br>
+                    &nbsp; 慢性中毒：患者有神经衰弱综合征表现，伴有轻度发绀、贫血和肝、脾肿大。皮肤接触可发生湿疹。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 毒性：中等毒性。<br>
+                    &nbsp; 急性毒性：LD<sub>50</sub>442mg/kg(大鼠经口)；820mg/kg(兔经皮)；LC<sub>50</sub>175ppm，7小时(小鼠吸入)<br>
+                    &nbsp; 亚急性和慢性毒性：大鼠吸入19mg/m<sup>3</sup>，6小时/天，23周时高铁血蛋白升高至600mg/mL。<br>
+                    &nbsp; 致突变性：微粒体诱变试验：鼠伤寒沙门氏菌100ug/皿。姊妹染色单体交换：小鼠腹腔内210mg/kg。 </p>
+                    <p>
+                    &nbsp;&nbsp;生产苯胺的有机化工厂、焦化厂及石油冶炼厂等企业，使用苯胺的染料合成，制药业，印染工业，橡胶促凝剂和防老化剂、打印油墨、2，4，6-三硝基苯甲硝胺、光学白涂剂、照相显影剂、树脂、假漆、香料、轮胎抛光剂及许多其他有机化学品的制造。在这些生产和使用苯胺的行业中以及在贮运过程中的意外事故均会造成对环境的污染、对人体危害。</p>
+                    <p>&nbsp;危险特性：遇高热、明火或与氧化剂接触，有引起燃烧的危险。<br>
+                    燃烧(分解)产物：一氧化碳、二氧化碳、氧化氮。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<a name="2" id="2"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="72">　</td>
+					<td height="46" width="801">
+						气体检测管法；直接进水样气相色谱法<br>
+                        快速检测管法；便携式气相色谱法《突发性环境污染事故应急监测与处理处置技术》万本太主编					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					实验室监测方法<a name="3" id="3"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="72">　</td>
+					<td height="46" width="801">
+						<table width="100%" border="1">
+                          <tr>
+                            <td align="middle" width="33%">监测方法</td>
+                            <td align="middle" width="33%">来源</td>
+                            <td align="middle" width="34%">类别</td>
+                          </tr>
+                          <tr>
+                            <td width="33%">盐酸乙二胺分光光度法</td>
+                            <td width="33%">GB/T15502</td>
+                            <td width="34%">空气</td>
+                          </tr>
+                          <tr>
+                            <td width="33%">溶剂解吸气相色谱法</td>
+                            <td width="33%">WS/T142-1999</td>
+                            <td width="34%">作业场所空气</td>
+                          </tr>
+                          <tr>
+                            <td width="33%">溶剂解吸高效液相色谱法</td>
+                            <td width="33%">WS/T170-1999</td>
+                            <td width="34%">作业场所空气</td>
+                          </tr>
+                          <tr>
+                            <td width="33%">N-(1-萘基)-乙二胺偶氮分光光度法</td>
+                            <td width="33%">GB11889-89</td>
+                            <td width="34%">水质</td>
+                          </tr>
+                          <tr>
+                            <td width="33%">气相色谱法</td>
+                            <td width="33%">《水质分析大全》张宏陶等主编</td>
+                            <td width="34%">水质</td>
+                          </tr>
+                        </table>
+　					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<a name="4" id="4"></a></td>
+				</tr>
+				<tr>
+					<td height="98" width="72">　</td>
+					<td height="98" width="801">
+						<table width="100%" border="1">
+                          <tr>
+                            <td width="26%">中国<font face="宋体">(TJ36-79)</font></td>
+                            <td width="36%">车间空气中有害物质的最高容许浓度</td>
+                            <td width="38%">5mg/m<sup>3</sup>[皮] </td>
+                          </tr>
+                          <tr>
+                            <td width="26%">中国<font face="宋体">(TJ36-79)</font></td>
+                            <td width="36%">居住区大气中有害物质的最高容许浓度</td>
+                            <td width="38%">0.10mg/m<sup>3</sup>(一次值)<br>
+                            0.03mg/m<sup>3</sup>(日均值)</td>
+                          </tr>
+                          <tr>
+                            <td width="26%">中国(GB16297-1996)</td>
+                            <td width="36%">大气污染物综合排放标准</td>
+                            <td width="38%">①最高允许排放浓度(mg/m<sup>3</sup>)：<br>
+                            20(表2)；25(表1)<br>
+                            ②最高允许排放速率(kg/h)：<br>
+                            二级0.52～11(表2)；0.61～13(表1)<br>
+                            三级0.78～17(表2)；0.92～20(表1)<br>
+                            ③无组织排放监控浓度限值(mg/m<sup>3</sup>)： &nbsp; 0.40(表2)；0.50(表1)</td>
+                          </tr>
+                          <tr>
+                            <td width="26%">中国(待颁布)</td>
+                            <td width="36%">饮用水源水中有害物质的最高容许浓度 </td>
+                            <td width="38%">0.1mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="26%">中国(GB8978-1996)</td>
+                            <td width="36%">污水综合排放标准</td>
+                            <td width="38%">一级：1.0mg/L<br>
+                            二级：2.0mg/L<br>
+                            三级：5.0mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="26%">　</td>
+                            <td width="36%">嗅觉阈浓度</td>
+                            <td width="38%">0.37～4.15mg/m<sup>3</sup></td>
+                          </tr>
+                        </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<a name="5" id="5"></a><br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="72">　</td>
+					<td height="314" width="801">一、泄漏应急处理<p>&nbsp; 
+                    疏散泄漏污染区人员至安全区，禁止无关人员进入污染区，切断火源。建议应急处理人员戴自给式呼吸器，穿化学防护服，不要直接接触泄漏物，在确保安全情况下堵漏。用沙土混合，逐渐倒入稀盐酸中(1体积浓盐酸加2体积水稀释)，放置24小时，然后废弃。如大量泄漏，收集回收或无害处理后废弃。</p>
+                    <p>
+                    ⑴土壤污染。在大多数情况下，发生事故时最先受到污染的就是土壤。由于苯胺是油状液体，故土壤对其有很好的吸收作用。道德用土训将污染区作覆盖处理，或者筑坝将其拦住，以防污染进一步扩大，特别是应采取措施不能让其污染附近的水体。当污染区域被控制住，并用土壤将其完全吸收后，应对受污染土壤进行处理：<br>
+                    &nbsp; 
+                    ①进行永久性密封处理：在大面积污染情况下，使用密封材料将受污染区域进行密封，这实际上使化学品泄漏地区变成了一个永久处理场，可以使用不同的密封材料，如粘土、沥青和有机密封剂。<br>
+                    &nbsp; ②暂时保存法：将受污染的土壤清除剥离后，装在可密封的容器中保存，待有条件时再做处理。<br>
+                    &nbsp; ③焚烧法：将受到苯胺污染的土壤挖掘起来在现场进行焚烧处理，这各处理方法要求焚烧炉带有气体回收装置。<br>
+                    &nbsp; 
+                    ④自然降解法：由于苯胺溶于水，故可采用开沟淋洗土壤的方法，收集洗涤水或让苯胺随水蒸气一同挥发，也可采用不断地翻耕土壤，让苯胺随土壤中的水分一同逸散。</p>
+                    <p>&nbsp; 
+                    ⑵水体污染。如果发生在地面上的苯胺污染事故由于处理不当，已使污染物进入水体；或者水体沿岸的污染源超标准排放的苯胺废水进入水体，则可对受污染水体作以下处理：<br>
+                    &nbsp;①在小溪、小河、水渠或其它流速缓慢的地表水体受到苯胺污染时，可设法在污染区域下方筑一水坝，将受污染水体与其它水体隔离。如果是非点源污染事故，则在污染区域上方也应拦住未受污染的水继续进入污染区。<br>
+                    &nbsp;②将受污染的水体泵到可接纳的水体中，如排污渠中，以使进入市政或其它污水处理厂进行处理，也可就地进行曝气等处理，让苯胺随水蒸气一同挥发。<br>
+                    &nbsp; 
+                    ③在大江大河或水量大的河流受到苯胺污染后，没有有效的处理方法。在这种情况下，唯一可做的就是迅速通知下游有关单位，特别是下游沿岸的自来水厂，加强监测，希望通过天然净化和稀释过程来减轻受污染的程度。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：可能接触其蒸气时，佩带防毒面具。紧急事态抢救或逃生时，佩带正压自给式呼吸器。<br>
+                    &nbsp; 眼睛防护：戴安全防护眼镜。<br>
+                    &nbsp; 防护服：穿紧袖工作服，长统胶鞋。<br>
+                    &nbsp; 手防护：戴橡皮手套。<br>
+                    &nbsp; 其它：工作现场禁止吸烟、进食和饮水。及时换洗工作服。工作前后不饮酒，用温水洗澡。监测毒物，进行就业前和定期的体检。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp; 皮肤接触：立即脱去污染的衣着，用5%醋酸清洗污染的皮肤，再用肥皂水和清水冲洗。注意手、足和指甲等部位。<br>
+                    &nbsp; 眼睛接触：立即提起眼睑，用大量流动清水或生理盐水冲洗医。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。呼吸困难时给输氧。呼吸停止时，立即进行人工呼吸。就医。<br>
+                    &nbsp; 食入：误服者给漱口，饮水，洗胃后口服活性炭，再给以导泻。就医。</p>
+                    <p>&nbsp; 灭火方法：雾状水、泡沫、二氧化碳、干粉、砂土。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

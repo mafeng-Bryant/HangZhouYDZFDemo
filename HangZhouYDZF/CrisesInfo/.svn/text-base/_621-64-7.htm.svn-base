@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="52" height="212">　</td>
+					<td width="821" height="212">毒理学资料及环境行为<p>&nbsp; 急性毒性：LD<sub>50</sub>480mg/kg(大鼠经口)；487mg/kg(大鼠皮下)；689mg/kg(小鼠皮下)<br>
+                    &nbsp; 致癌性判定：人为可疑性反应，动物为阳性反应。</p>
+                    <p>&nbsp; 
+                    来源：N-亚硝胺类化合物由亚硝化剂(亚硝酸盐)和胺类在一定条件下，经亚硝化作用生成。在环境中大量存在亚硝基化剂和胺类，例如有机合成，染料、橡胶制造和食品着色防腐中的亚硝酸钠和胺类，化肥中的硝酸铵，废气中排出的氮氧化物等等，这些亚硝胺的前体物质均可在环境中，动物体内，人体内，食品中合成。在面粉、奶酪、烟熏肉、鱼及其他食品中均可检出。合成切削油也可能含有亚硝胺类物质。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<a name="2" id="2"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="52">　</td>
+					
+    <td height="46" width="821"> <p class="bingzi1">　</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+						实验室监测方法<a name="3" id="3"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="52">　</td>
+					<td height="46" width="821">
+						石油化工废水及污灌蔬菜中N-亚硝基化合物的测定(气相色谱法)，许后效等，《化工环保》，5，296，(1985)					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<a name="4" id="4"></a></td>
+				</tr>
+				<tr>
+					<td height="98" width="52">　</td>
+					<td height="98" width="821">
+						美国(1982)N-二正丙基亚硝胺用作水果、蔬菜或其他田间作物的杀虫剂时，其亚硝胺的总浓度必须低于0.05ppm(工业品)<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<a name="5" id="5"></a><br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="316" width="52">　</td>
+					<td height="316" width="821">　<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

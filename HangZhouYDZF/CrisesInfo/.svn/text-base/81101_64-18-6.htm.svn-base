@@ -1,0 +1,127 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="862">
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="76" height="212">　</td>
+					<td width="797" height="212">
+                    &nbsp;<p>一、健康危害</p>
+                    <p>&nbsp;&nbsp;侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp; 
+                    健康危害：主要引起皮肤、粘膜有刺激症状。其表现有结膜充血、鼻炎、支气管炎；皮肤接触可引起炎症和溃疡。误服甲酸可至死(致死量约30克)。除消化道症状外，常因急性肾功衰竭或呼吸功能衰竭而死亡。<br>
+                    &nbsp;&nbsp;慢性中毒：可有血尿和蛋白尿。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 毒性：属低毒类&nbsp;。<br>
+                    &nbsp;&nbsp;急性毒性：LD<sub>50</sub>1100mg/kg(大鼠经口)；LC<sub>50</sub>15000mg/m<sup>3</sup>，15分钟(大鼠吸入)；人吸入750mg/m<sup>3</sup>(15秒)，剧烈刺激粘膜引起咽痛，咳嗽，胸痛；人经口约30g，肾功能衰竭或呼吸功能衰竭而死亡。<br>
+                    &nbsp;&nbsp;刺激性：人经眼：1ppm(6分钟)，非标准接触，轻度刺激。人经皮：150μg(3天)，间歇，轻度刺激。<br>
+                    &nbsp;&nbsp;亚急性和慢性毒性：小鼠饮水中含0.01%～0.25%游离甲酸，2～4个月内无任何影响；0.5%则影响食欲并使其生长缓慢。小鼠吸入10g/m<sup>3</sup>以上时，1～4天后死亡。<br>
+                    &nbsp;&nbsp;致突变性：微生物致突变：大肠杆菌71ppm(3小时)。姊妹染色单体交换：人淋巴细胞10mmol/L。</p>
+                    <p>&nbsp; 危险特性：其蒸气与空气形成爆炸性混合物，遇明火、高热能引起燃烧爆炸。与强氧化剂蚵发生反应。具有较强的腐蚀性。<br>
+                    &nbsp; 燃烧(分解)产物：一氧化碳、二氧化碳。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="76">　</td>
+					
+    <td height="46" width="797"> 水质检测管法；气体检测管法<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="22" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="76">　<p>　</td>
+					
+    <td height="46" width="797"> 气相色谱法《空气中有害物质的测定方法》(第二版)，杭士平主编<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="76">　</td>
+					<td height="98" width="797">
+						<table width="100%" border="1">
+                          <tr>
+                            <td width="22%">前苏联</td>
+                            <td width="44%">车间空气中有害物质的最高容许浓度</td>
+                            <td width="34%">1mg/m<sup>3</sup> </td>
+                          </tr>
+                          <tr>
+                            <td width="14%">前苏联</td>
+                            <td width="57%">污水中有害物质最高允许浓度</td>
+                            <td width="29%">5mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="22%">　</td>
+                            <td width="44%">嗅觉阈浓度</td>
+                            <td width="34%">40mg/m<sup>3</sup></td>
+                          </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <p class="bingdazi"> 
+        应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+      </p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="76">　</td>
+					<td height="314" width="797">一、泄漏应急处理<p>
+                    &nbsp;&nbsp;疏散泄漏污染区人员至安全区，禁止无关人员进入污染区，切断火源。建议应急处理人员戴自给式呼吸器，穿化学防护服。不要直接接触泄漏物，在确保安全情况下堵漏。用沙土或其它不燃性吸附剂混合吸收，然后收集运至废物处理场所处置。也可以将地面洒上苏打灰，用大量水冲洗，经稀释的洗水放入废水系统。如果大量泄漏，利用围堤收容，然后收集、转移、回收或无害处理后废弃。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：空气中浓度超标时，应该佩带防毒面具。紧急事态抢救或逃生时，建议佩带自给式呼吸器。<br>
+                    &nbsp; 眼睛防护：戴化学安全防护眼镜。<br>
+                    &nbsp; 防护服：穿工作服(防腐材料制作)。<br>
+                    &nbsp; 手防护：戴橡皮手套。<br>
+                    &nbsp; 其它：工作后，淋浴更衣。注意个人清洁卫生。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp;&nbsp;皮肤接触：脱去污染的衣着，立即用水冲洗至少15分钟。若有灼伤，就医治疗。<br>
+                    &nbsp;&nbsp;眼睛接触：立即提起眼睑，用流动清水或生理盐水冲洗至少15分钟。就医。<br>
+                    &nbsp;&nbsp;吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。呼吸困难时给输氧。给予2-4%碳酸氢钠溶液雾化吸入。就医。<br>
+                    &nbsp;&nbsp;食入：误服者立即漱口，给饮牛奶或蛋清。立即就医。</p>
+                    <p>&nbsp;&nbsp;灭火方法：雾状水、砂土、泡沫、二氧化碳。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+			</table>
+		</TD>
+		</TR> </TABLE>
+	</BODY>
+</HTML>

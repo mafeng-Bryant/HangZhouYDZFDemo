@@ -1,0 +1,142 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="67" height="212">　</td>
+					<td width="806" height="212">
+                    &nbsp;<p>一、健康危害<br>
+                    <br>
+                    &nbsp; 侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp; 
+                    健康危害：主要抑制体内胆碱酯酶活性，使乙酰胆碱在组织中蓄积而引起中毒。作用机制和有机磷农药中毒相似。中毒表现有流涎、流泪、瞳孔缩小及痉挛。但与有机磷农药相比，抑制胆碱酯酶的作用持续的时间较短。停止接触后，胆碱酯恢复较快。</p>
+                    <p>二、毒理学资料及环境行为<br>
+                    <br>
+                    &nbsp; 毒性：经口属剧毒类；经皮属中等毒类。对人畜高毒。<br>
+                    &nbsp; 急性毒性：LD<sub>50</sub>5.3mg/kg(大鼠经口)；885mg/kg(兔经皮)；10g/kg(人经皮)；LC<sub>50</sub>85ppm&nbsp; 
+                    2小时(哺乳类动物吸入)；8～14mg/kg(小鼠经口)；</p>
+                    <p>&nbsp; 
+                    呋喃丹属高毒农药。对环境生物毒性也很高，在各种环境生物中，呋喃丹对鸟类的危害性最大，一只小鸟只要觅食一粒呋喃丹足以致命。受呋喃中毒致死的小鸟或其它昆虫，被猛禽类、小型兽类或爬行类动物觅食后，可引起二次中毒而致死。在美国曾发现30余起猛禽(鹰、隼、秃鹫)遭呋喃丹二次中毒事故。<br>
+                    呋喃丹的另一个环境行为特点是它在土壤中的残留期较长(降解半衰期为1～2个月)、在土壤中的移动性能较大(水溶解度为700mg/L)，在降水量大、地下水位浅的砂土地区易引起对地下水的污染，为此美国对呋喃丹使用作了一些地区性限制。</p>
+                    <p>&nbsp; 危险特性：遇明火、高热可燃。受热分解放出有毒的氧化氮烟气。<br>
+                    &nbsp; 燃烧(分解)产物：一氧化碳、二氧化碳、氧化氮。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="67">　</td>
+					
+    <td height="46" width="806"> 直接进水样气相色谱法<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="67">　</td>
+					
+    <td height="46" width="806"> 气相色谱法《现代环境监测方法》(水、粮食和土壤)张晓林等主编<br>
+    气相色谱法(GB/T14877-94，食品)<br>
+    高效液相色谱法《农药环境毒理学研究》，蔡道基主编<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="67">　</td>
+					<td height="98" width="806">
+						<table width="100%" border="1">
+                          <tr>
+                            <td width="23%">美国(1982)</td>
+                            <td width="43%">车间卫生标准</td>
+                            <td width="34%">0.1mg/m<sup>3</sup> </td>
+                          </tr>
+                          <tr>
+                            <td width="23%">中国(GB11607-89)</td>
+                            <td width="43%">渔业水质标准</td>
+                            <td width="34%">0.01mg/L</td>
+                          </tr>
+                          <tr>
+                            <td width="23%"><sup><big>中国(98年修改稿)</big></sup></td>
+                            <td width="43%"><sup><big>地表水环境质量标准(I、II、III类水域特定值)</big></sup></td>
+                            <td width="34%"><sup><big>0.005mg/L</big></sup></td>
+                          </tr>
+                          <tr>
+                            <td width="23%">中国(GB14928.7-94)</td>
+                            <td width="43%">食品卫生标准</td>
+                            <td width="34%">0.5mg/kg(稻谷)</td>
+                          </tr>
+                        </table>
+                    
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <p class="bingdazi"> 
+        应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+      </p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="67">　</td>
+					<td height="314" width="806">一、泄漏应急处理<br>
+                    <br>
+                    &nbsp; 
+                    隔离泄漏污染区，周围设警告标志，建议应急处理人员戴自给式呼吸器，穿化学防护服。用清洁的铲子收集于干燥净洁有盖的容器中，运至废物处理场所。如大量泄漏，收集回收或无害处理后废弃。<p>
+                    二、防护措施<br>
+                    <br>
+                    &nbsp; 呼吸系统防护：生产操作或农业使用时，应该佩带防毒口罩。紧急事态抢救或逃生时，建议佩带自给式呼吸器。<br>
+                    &nbsp; 眼睛防护：可采用安全面罩。<br>
+                    &nbsp; 防护服：穿相应的防护服。<br>
+                    &nbsp; 手防护：必要时戴防护手套。<br>
+                    &nbsp; 其它：工作现场禁止吸烟、进食和饮水。工作后，淋浴更衣。保持良好的卫生习惯。</p>
+                    <p>三、急救措施<br>
+                    <br>
+                    &nbsp; 皮肤接触：立即脱去污染的衣着，用肥皂水及流动清水彻底冲洗污染的皮肤、头发、指甲等。就医。<br>
+                    &nbsp; 眼睛接触：立即提起眼睑，用流动清水冲洗10分钟或用2%碳酸氢钠液体冲洗。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。注意保暖，呼吸困难时给输氧。呼吸停止时，立即进行人工呼吸。就医。<br>
+                    &nbsp; 食入：患者清醒时给饮大量温水，催吐，可用温水或1：5000高锰酸钾液彻底洗胃。立即就医。<br>
+                    <br>
+                    &nbsp; 灭火方法：雾状水、泡沫、二氧化碳、砂土。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+			</table>
+		</TD>
+		</TR> </TABLE>
+	</BODY>
+</HTML>

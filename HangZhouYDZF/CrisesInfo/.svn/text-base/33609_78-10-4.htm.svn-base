@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="865">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="69" height="212">　</td>
+					<td width="804" height="212">一、健康危害<p>&nbsp;&nbsp;侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp;&nbsp;健康危害：吸入、口服或经皮肤吸收后对身体有害。对皮肤有刺激作用。其蒸气或雾对眼睛、皮肤、粘膜和呼吸道有刺激作用。接触后能引起头痛、恶心和呕吐。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 急性毒性：LD<sub>50</sub>6279mg/kg(大鼠经口)；5878mg/kg(兔经皮)；人吸入，2130mg/m<sup>3</sup>，眼鼻刺激；人吸入851mg/m<sup>3</sup>，不引起肺、肾损害。<br>
+                    &nbsp; 亚急性和慢性毒性：大鼠吸入，3404mg/m<sup>3</sup>×7小时/日×30日，死亡，肺、肾、肝均有病理变化。</p>
+                    <p>&nbsp; 危险特性：易燃，遇高热、明火、有引起燃烧的危险。遇水能逐渐水解放出刺激性气体。<br>
+                    &nbsp; 燃烧(分解)产物：一氧化碳、二氧化碳、氧化硅。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="69">　</td>
+					<td height="46" width="804">
+						　		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="69">　</td>
+					<td height="46" width="804">
+						空气中含量的测定：样品用树腊吸附，二硫化碳洗脱，再用气相色谱法分析(NIOSH法)<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="69">　</td>
+					<td height="98" width="804">
+						美国(1974)职业安全及卫生管理局标准 空气：时间加权平均值100ppm<br>
+                        嗅觉阈浓度 &lt;85ppm<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="69">　</td>
+					<td height="314" width="804">一、泄漏应急处理<p>
+                    &nbsp;&nbsp;迅速撤离泄漏污染区人员至安全区，并进行隔离，严格限制出入。切断火源。建议应急处理人员戴自给正压式呼吸器，穿消防防护服。不要直接接触泄漏物。尽可能切断泄漏源。防止进入下水道、排洪沟等限制性空间。小量泄漏：用砂土或其它不燃材料吸附或吸收。也可以用不燃性分散剂制成的乳液刷洗，洗液稀释后放入废水系统。大量泄漏：构筑围堤或挖坑收容；用泡沫覆盖，降低蒸气灾害。用防爆泵转移至槽车或专用收集器内，回收或运至废物处理场所处置。<br>
+                    &nbsp; 废弃物处置方法：用焚烧法。废料先和易燃溶剂混合后再焚烧。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp;&nbsp; 呼吸系统防护：空气中浓度超标时，应该佩戴防毒面具。<br>
+                    &nbsp;&nbsp; 眼睛防护：戴化学安全防护眼镜。<br>
+                    &nbsp;&nbsp; 身体防护：穿防静电工作服。<br>
+                    &nbsp;&nbsp; 手防护：戴乳胶手套。<br>
+                    &nbsp;&nbsp; 其它：工作现场严禁吸烟。工作毕，淋浴更衣。注意个人清洁卫生。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp;&nbsp; 皮肤接触：脱去被污染的衣着，用肥皂水和清水彻底冲洗皮肤。<br>
+                    &nbsp;&nbsp; 眼睛接触：提起眼睑，用流动清水或生理盐水冲洗。就医。<br>
+                    &nbsp;&nbsp; 吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。如呼吸困难，给输氧。如呼吸停止，立即进行人工呼吸。就医。<br>
+                    &nbsp;&nbsp; 食入：饮足量温水，催吐，就医。</p>
+                    <p>&nbsp;&nbsp; 灭火方法：喷水冷却容器，可能的话将容器从火场移至空旷处。灭火剂：干粉、二氧化碳、砂土。禁止用水或泡沫灭火。</td>
+				</tr>
+				<tr>
+					<td height="314" width="69">&nbsp;</td>
+					<td height="314" width="804">　						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

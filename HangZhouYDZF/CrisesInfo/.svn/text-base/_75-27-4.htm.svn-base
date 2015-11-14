@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="63" height="212">　</td>
+					<td width="810" height="212">一、健康危害<p>
+                    &nbsp;&nbsp;一溴二氯甲烷的毒性比三氯甲烷稍大，具有卤代烃化合物的共性，即对皮肤及粘膜有强烈的刺激性。能够经皮肤吸收后，侵蚀中枢神经，也作用于肺、心、肝、肾上腺和胃肠等内脏器管而引起中毒。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 
+                    亚急性和慢性毒性：小鼠经口50mg/kg/日×14日肝肿大，体液免疫功能抑制；小鼠经口125mg/kg/日×14日肝肿大，血液葡萄糖含量下降，体液免疫功能抑制；小鼠经口250mg/kg/日×14日肝脾肿大，肝肾功能异常。</p>
+                    <p>
+                    &nbsp;&nbsp;一溴二氯甲烷存在于水环境和底质环境中。环境监测结果表明，在饮用水中已被检出含有一溴二氯甲烷。尤其是经过加氯处理后的饮用水，该卤代烃污染物的含量，最高可达100μg/L左右。美国安全饮水委员会饮水调查结果表明，在饮用水源水中，一溴二氯甲烷的最高浓度为11μg/L，而在经过处理的水中最高浓度达到116μg/L。一般认为饮用水中这些卤化物是因为加氯过程中，消毒灭菌的同时，氯化了水体中天然存在的有机物质所生成的。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<a name="2" id="2"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="63">　</td>
+					<td height="46" width="810">
+						直接进水样气相色谱法					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					实验室监测方法<a name="3" id="3"></a></td>
+				</tr>
+				<tr>
+					<td height="46" width="63">　</td>
+					<td height="46" width="810">
+						吹扫捕集-气相色谱法(中国环境监测总站，水质)<br>
+                        气相色谱法《常见有毒化学品环境事故应急处置技术与监测方法》胡望钧主编<br>
+                        气相色谱法《固体废弃物试验与分析评价手册》中国环境监测总站等译					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<a name="4" id="4"></a></td>
+				</tr>
+				<tr>
+					<td height="98" width="63">　</td>
+					<td height="98" width="810">
+						美国(1981)饮用水(瓶装水)0.1mg/ L<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<a name="5" id="5"></a><br>
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="63">　</td>
+					<td height="314" width="810">
+                    防止沾污扩散：为降低饮用水中一溴二氯甲烷，研究氯化前破坏或去除可被卤化的有机母体的方法，将可导致降低自来水中氯化产物及其对人类健康的危害。当饮用水水源中含有较高有机物质(微粒态或吸附在矿物微粒上的溶质)时，先混凝和过滤去除大量的有机物质，然后氯化处理，能直接减少包括一溴二氯甲烷在内的三卤甲烷的产生。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

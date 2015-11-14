@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="863">
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="72" height="212">　<p>　</td>
+					<td width="801" height="212">
+                    一、健康危害<p>&nbsp;&nbsp;侵入途径：吸入。<br>
+                    &nbsp; 健康危害：本品对眼、皮肤、粘膜和呼吸道有严重损害。局部腐蚀作用强。严重中毒者可致肺炎、肺水肿。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 毒性：属高毒。<br>
+                    &nbsp; 急性毒性：LC<sub>50</sub>1275mg/m<sup>3</sup>(大鼠吸入)<br>
+                    &nbsp; 危险特性：在潮湿空气中产生白色有腐蚀性和刺激性的氟化氢烟雾。遇水剧烈反应，生成硅酸及氟化氢。<br>
+                    &nbsp; 燃烧(分解)产物：氟化氢。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="72">　</td>
+					
+    <td height="46" width="801"> 速测管法；离子选择性电极法<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="72">　<p>　</td>
+					
+    <td height="46" width="801"> 离子选择性电极法(GB7484-87，水质)&nbsp; <br>
+    滤膜氟离子选择电极法(GB/T15434-95，空气)<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877"> 
+      环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="72">　</td>
+					<td height="98" width="801">
+						<table width="100%" border="1">
+                          <tr>
+                            <td width="24%">中国(TJ36-79)</td>
+                            <td width="36%">车间空气中有害物质的最高容许浓度</td>
+                            <td width="40%">1mg/m<sup>3</sup>[F]</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(TJ36-79)</td>
+                            <td width="36%">居住区大气中有害物质的最高容许浓度(氟化物)</td>
+                            <td width="40%">0.02mg/m<sup>3</sup>(一次值)；0.007mg/m<sup>3</sup>(日均值)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB5048-92)</td>
+                            <td width="36%">农田灌溉水质标准(氟化物)</td>
+                            <td width="40%">2.0～3.0mg/L(水作，旱作，蔬菜)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB11607-89)</td>
+                            <td width="36%">渔业水质标准</td>
+                            <td width="40%">1mg/L(氟化物)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB5749-85)</td>
+                            <td width="36%">生活饮用水卫生标准</td>
+                            <td width="40%">1.0mg/L(氟化物)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB/T14848-93)</td>
+                            <td width="36%">地下水质量标准(mg/L)</td>
+                            <td width="40%">
+                            I类1.0；II类1.0；III类1.0；IV类2.0；V类2.0以上(氟化物)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GHZB1-1999)</td>
+                            <td width="36%">地表水环境质量标准(mg/L)</td>
+                            <td width="40%">
+                            I类1.0以下；II类1.0；III类1.0；IV类1.5；V类1.5(氟化物)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB8978-1996)</td>
+                            <td width="36%">污水综合排放标准(mg/L)</td>
+                            <td width="40%">一级10；二级10～20；三级20～30(氟化物)</td>
+                          </tr>
+                          <tr>
+                            <td width="24%">中国(GB5058.3-1996)</td>
+                            <td width="36%">固体废弃物浸出毒性鉴别标准值</td>
+                            <td width="40%">50mg/L(氟化物)</td>
+                          </tr>
+                        </table>
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					
+    <td height="21" colspan="2" bgcolor="#ececec" width="877"> <p class="bingdazi"> 
+        应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+      </p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="72">　</td>
+					<td height="314" width="801">一、泄漏应急处理 &nbsp;<p>
+                    &nbsp;&nbsp;迅速撤离泄漏污染区人员至上风处，并立即隔离450米，严格限制出入。建议应急处理人员戴自给正压式呼吸器，穿防毒服。从上风处进入现场。尽可能切断泄漏源。合理通风，加速扩散。喷雾状水或泡沫冷却和稀释蒸气、保护现场人员。构筑围堤或挖坑收容产生的大量废水。漏气容器要妥善处理，修复、检验后再用。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：空气中浓度超标时，佩戴自吸过滤式防毒面具(全面罩)。紧急事态抢救或撤离时，建议佩戴空气呼吸器。<br>
+                    &nbsp; 眼睛防护：呼吸系统防护中已作防护。<br>
+                    &nbsp; 身体防护：穿密闭型防毒服。<br>
+                    &nbsp; 手防护：戴橡胶手套。<br>
+                    &nbsp; 其它：工作现场严禁吸烟。保持良好的卫生习惯。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp; 皮肤接触：脱去被污染的衣着，用流动清水冲洗。就医。<br>
+                    &nbsp; 眼睛接触：立即提起眼睑，用大量流动清水或生理盐水彻底冲洗至少15分钟。就医。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。如呼吸困难，给输氧。如呼吸停止，立即进行人工呼吸。就医。</p>
+                    <p>&nbsp; 
+                    灭火方法：消防人员必须穿戴全身防火防毒服。切断气源。喷水冷却容器，可能的话将容器从火场移至空旷处。灭火剂：雾状水、干粉、砂土。</p>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td>　</td>
+        </tr>
+      </table></td>
+				</tr>
+			</table>
+		</TD>
+		</TR> </TABLE>
+	</BODY>
+</HTML>

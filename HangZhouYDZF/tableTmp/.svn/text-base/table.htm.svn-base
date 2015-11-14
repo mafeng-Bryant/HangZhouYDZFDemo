@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>化学品文档</title>
+<style type="text/css" >
+body {background-color:#f4fdff; line-height:26px; font-size:14px;}
+    p.p2 { font: 17px "宋体"}
+    p.p3 {font: 17px Times "宋体";}
+    p.p4 {margin: 0px 0px 12px 0px; font: 17px Times "宋体"; min-height: 14px}
+    span.s1 {font: 17px Times "宋体"; color: #999933}
+    span.s2 {font: 17px Times "宋体"}
+    span.s3 {font: 17px STSong "宋体"}
+	table { font: 17px STSong "宋体"}
+	table td {table { font: 17px STSong "宋体"}}
+    table.t1 {width: 814px;  height: 502px;}
+    td.td1 {width: 100px; text-indent:8px;}
+    td.td2 { padding:0 6px;}
+	
+    td.td3 { padding:0 6px;}
+    td.td4 {width: 100px; padding:0 6px;}
+    td.td5 { padding:0 6px}
+	.bingdazi{  width:100%; height:35px; background:#ececec;line-height:35px; text-indent:4px; font-size:20px;}
+
+span.bingdazi{border:0;}
+</style>
+
+</head>
+<body leftmargin="61" >
+
+<h3 style="height:45px; background:#ececec;  line-height:35px; text-indent:4px;">物质的理化常数<span class="s2"><b>:</b></span></h3>
+<div style=" margin-left:33px">
+<table width="700" border="0" cellpadding="0" cellspacing="1" bgcolor="#CCCCCC" class="t1">
+  <tbody>
+    <tr>
+      <td width="137" valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p2">国标编号</p>
+      </td>
+      <td colspan="3" valign="middle" bgcolor="#FFFFFF" class="td2">
+        <p class="p3">gbbhID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p3">CAS<span class="s3">号</span></p>
+      </td>
+      <td colspan="3" valign="middle" bgcolor="#FFFFFF" class="td2">
+        <p class="p3">casID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p2">中文名称</p>
+      </td>
+      <td colspan="3" valign="middle" bgcolor="#FFFFFF" class="td2">
+        <p class="p3">zwmcID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p2">英文名称</p>
+      </td>
+      <td colspan="3" valign="middle" bgcolor="#FFFFFF" class="td2">
+        <p class="p3">ywmcID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p3"><span class="s3">别</span>    <span class="s3">名</span></p>
+      </td>
+      <td colspan="3" valign="middle" bgcolor="#FFFFFF" class="td2">
+        <p class="p3">bmID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p2">分子式</p>
+      </td>
+      <td width="245" valign="middle" bgcolor="#FFFFFF" class="td3">
+        <p class="p3">fzsID</p>
+      </td>
+      <td width="86" valign="middle" bgcolor="#FFFFFF" class="td4">
+        <p class="p2">外观与气味</p>
+      </td>
+      <td width="339" valign="middle" bgcolor="#FFFFFF" class="td5" style="width: 229px">
+        <p class="p3">wgyqwID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p2">分子量</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td3">
+        <p class="p3">fzlID</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td4">
+        <p class="p2">蒸汽压</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td5" style="width: 229px">
+        <p class="p3">zqyID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p3"><span class="s3">熔</span>    <span class="s3">点</span></p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td3">
+        <p class="p3">rdID</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td4">
+        <p class="p2">溶解性</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td5" style="width: 229px">
+        <p class="p3">rjxID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1">
+        <p class="p3"><span class="s3">密</span>    <span class="s3">度</span></p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td3">
+        <p class="p3">mdID</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td4">
+        <p class="p2">稳定性和危险性</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td5" style="width: 229px">
+        <p class="p3">wdxywxxID</p>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle" bgcolor="#FFFFFF" class="td1" style="height: 21px">
+        <p class="p2">所属类别</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td3" style="height: 21px">
+        <p class="p3">sslbID</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td4" style="height: 21px">
+        <p class="p2">主要用途</p>
+      </td>
+      <td valign="middle" bgcolor="#FFFFFF" class="td5" style="height: 21px; width: 229px">
+        <p class="p3">zyytID</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+

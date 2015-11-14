@@ -1,0 +1,144 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="859">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="63" height="212">　</td>
+					<td width="810" height="212">一、健康危害<p>&nbsp; 侵入途径：吸入。<br>
+                    &nbsp; 健康危害：低浓度氨对粘膜有刺激作用，高浓度可造成组织溶解坏死。<br>
+                    &nbsp; 
+                    急性中毒：轻度者出现流泪、咽痛、声音嘶哑、咳嗽、咯痰等；眼结膜、鼻粘膜、咽部充血、水肿；胸部X线征象符合支气管炎或支气管周围炎。中度中毒上述症状加剧，出现呼吸困难、紫绀；胸部X线征象符合肺炎或间质性肺炎。严重者可发生中毒性肺水肿，或有呼吸窘迫综合征，患者剧烈咳嗽、咯大量粉红色泡沫痰、呼吸窘迫、谵妄、昏迷、休克等。可发生喉头水肿或支气管粘膜坏死脱落窒息。高浓度氨可引起反射性呼吸停止。液氨或高浓度氨可致眼灼伤；液氨可致皮肤灼伤。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 毒性：属低毒类。<br>
+                    &nbsp; 急性毒性：LD<sub>50</sub>350mg/kg(大鼠经口)；LC<sub>50</sub>1390mg/m<sup>3</sup>，4小时，(大鼠吸入)。<br>
+                    &nbsp; 刺激性：家兔经眼：100ppm，重度刺激。<br>
+                    &nbsp; 亚急性慢性毒性：大鼠，20mg/m<sup>3</sup>，24小时/天，84天，或5～6小时/天，7个月，出现神经系统功能紊乱，血胆碱酯酶活性抑制等。<br>
+                    &nbsp; 致突变性：微生物致突变性：大肠杆菌1500ppm(3小时)。细胞遗传学分析：大鼠吸入19800&micro;g/m<sup>3</sup>，16周。</p>
+                    <p>&nbsp; 
+                    污染来源：在石油精炼、氮肥工业、合成纤维、鞣皮、人造冰、油漆、塑料、树脂、染料、医药以及制造氰化物和有机腈的生产中都有氨的使用和排放，氨系用氢和氮在触媒作用下合成，为制取各种含氨产品的主要原料。</p>
+                    <p>&nbsp; 
+                    危险特性：与空气混合能形成爆炸性混合物。遇明火、高热能引起燃烧爆炸。与氟、氯等接触会发生剧烈的化学反应。若遇高热，容器内压增大，有开裂和爆炸的危险。<br>
+                    &nbsp; 燃烧(分解)产物：氧化氮、氨。 </p>
+                    <p>　<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="63">　</td>
+					<td height="46" width="810">
+						①便携式气体检测仪器：氨气敏电极检测仪；②常用快速化学分析方法：溴酚蓝检测管法、百里酚蓝检测管法《突发性环境污染事故应急监测与处理处置技术》万本太主编&nbsp;		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="63">　</td>
+					<td height="46" width="810">
+						纳氏试剂比色法(GB/T14668-93，空气)<br>
+                        次氯酸钠-水杨酸分光光度法(GB/T14679-93，空气)<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="63">　</td>
+					<td height="98" width="810">
+						<table width="96%" border="1">
+                          <tr>
+                            <td width="25%">中国(TJ36-79)</td>
+                            <td width="45%">车间空气中有害物质的最高容许浓度&nbsp;</td>
+                            <td width="30%">30mg/m<sup>3</sup></td>
+                          </tr>
+                          <tr>
+                            <td width="25%">中国(TJ36-79)</td>
+                            <td width="45%">居住区大气中有害物质的最高容许浓度</td>
+                            <td width="30%">0.20mg/m<sup>3</sup>(一次值)</td>
+                          </tr>
+                          <tr>
+                            <td width="25%">中国(GB14554-93)</td>
+                            <td width="45%">恶臭污染物厂界标准(mg/m<sup>3</sup>)</td>
+                            <td width="30%">一级1.0<br>
+                            二级1.5～2.0<br>
+                            三级4.0～5.0</td>
+                          </tr>
+                          <tr>
+                            <td width="25%">中国(GB14554-93)</td>
+                            <td width="45%">恶臭污染物排放标准</td>
+                            <td width="30%">4.9～75kg/h</td>
+                          </tr>
+                        </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="63">　</td>
+					<td height="314" width="810">
+                    一、泄漏应急处理 
+                    <p>&nbsp; 
+                    迅速撤离泄漏污染区人员至上风处，并立即进行隔离150米，严格限制出入，切断火源。建议应急处理人员戴自给正压式呼吸器，穿防毒服。尽可能切断泄漏源。合理通风，加速扩散。高浓度泄漏区，喷含盐酸的雾状水中和、稀释、溶解。构筑围堤或挖坑收容产生的大量废水。如有可能，将残余气或漏出气用排风机送至水洗塔或与塔相连的通风橱内。储罐区最好设稀酸喷洒设施。漏气容器要妥善处理，修复、检验后再用。<br>
+                    &nbsp; 废弃物处置方法：建议废料液用水稀释，加盐酸中和后，排入下水道。造纸、纺织、肥料工业中的含氨废料回收使用。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：空气中浓度超标时，建议佩戴过滤式防毒面具(半面罩)。紧急事态抢救或撤离时，必须佩戴空气呼吸器。<br>
+                    &nbsp; 眼睛防护：戴化学安全防护眼镜。<br>
+                    &nbsp; 身体防护：穿防静电工作服。<br>
+                    &nbsp; 手防护：戴橡胶手套。<br>
+                    &nbsp; 其它：工作现场严禁吸烟、进食和饮水。工作毕，淋浴更衣。保持良好的卫生习惯。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp; 皮肤接触：立即脱去被污染的衣着，应用2%硼酸液或大量流动清水彻底冲洗。就医。<br>
+                    &nbsp; 眼睛接触：立即提起眼睑，用大量流动清水或生理盐水彻底冲洗至少15分钟。就医。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。如呼吸困难，给输氧。如呼吸停止，立即进行人工呼吸。就医。</p>
+                    <p>&nbsp; 
+                    灭火方法：消防人员必须穿戴全身防火防毒服。切断气源。若不能立即切断气源，则不允许熄灭正在燃烧的气体。喷水冷却容器，可能的话将容器从火场移至空旷处。灭火剂：雾状水、抗溶性泡沫、二氧化碳、砂土。						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

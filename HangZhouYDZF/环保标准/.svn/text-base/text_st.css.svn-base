@@ -1,0 +1,42 @@
+/* CSS Document */
+body{
+	margin:0 auto;
+	padding:0;
+	font-size:14px;
+	font-weight:normal;
+	color:#333333;
+	line-height:180%;
+	text-align:center;
+	background-color:#FFFFFF;
+	font-family: "ÐÂËÎÌå";
+}
+p{text-indent:2em; margin-top:-10px;  clear:both;}
+table{ width:95%; border:1px solid #999999; border-top:none; border-right:none; margin:0 auto; clear:both;}
+td{ height:25px; padding-left:3px; border:1px solid #999999; border-bottom:none; border-left:none; line-height:25px;}
+table.special1{ border:none; width:auto; clear:both; float:left; margin-left:2em; }
+td.special1{ border-top:none; border-right:none; white-space:nowrap;}
+
+
+.box{width:80%; height:auto; margin:20px; margin:10px auto;}
+.box h1{ width:100%;font-size:22px; font-weight:bold; color:#000000; line-height:180%;text-align:center; clear:both;}
+.box h2{ width:100%;font-size:14px; line-height:190%; color:#666666; font-weight:100;text-align:center; clear:both;}
+.box h3{ width:100%;font-size:12px; line-height:180%; color:#777777; font-weight:100; text-align:center; margin-bottom:20px; clear:both;}
+.box h4{ width:100%; font-size:13px; font-weight:100;text-align:right; line-height:180%;}
+.toptitle{ color:#663300; font-size:12px; text-align:center; width:100%;}
+.bigtitle{ font-size:24px; font-weight:bold; line-height:180%; text-align:center;}
+.border_solid2{width:100%;border-bottom:1px solid #000000;float:left; height:1px;margin:10px 0; clear:both;}
+.border_solid{width:100%;border-bottom:2px solid #666666;float:left;line-height:220%; clear:both;}
+.text_st1{ width:100%; height:auto; float:left; text-align:left; font-size:16px; line-height:200%;}
+
+.text_st2{ width:100%; height:auto; float:left; text-align:left; font-size:14px; padding-top:20px;}
+span{ display:block;width:100%;font-weight:bold; color:#000000; line-height:250%; font-size:19px; border-top:1px dashed  #666666; margin-top:30px;}
+span#one{border:none; margin-top:5px;}
+span.red{border:none; margin-top:5px;color:#FF0000; font-size:14px; font-weight:100;}
+span.brown{border:none; margin-top:5px;color:#5c3000; font-size:14px; font-weight:100;width:auto; height:auto;line-height:180%;padding:5px;}
+
+span.mulu{border:none; margin-top:2px; margin-bottom:2px;font-size:35px;font-weight:bold; line-height:180%; letter-spacing:4px;}
+span.mulusmall{border:none; margin:0; font-size:12px;font-weight:normal; padding-left:4em; line-height:180%; color:#888888}
+span.xiaojie{border:none;width:100%;line-height:220%;font-size:14px; color:#666600; background:#eeeeee; margin-top:10px; text-align:center; font-weight:normal;}
+
+
+

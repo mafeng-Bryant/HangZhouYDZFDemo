@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+<!--
+body,h1 {margin:0;padding:0;font:normal 14px/1.5 "宋体";}
+.wrap {width:980px; margin:8px auto; border:1px solid black;padding:8px 0;}
+.wrap h1 {text-align:center; font-size:24px;}
+.wrap table tr{height:30px;}
+.wrap table span{ border-bottom:1px solid black;}
+-->
+</style>
+</head>
+
+<body>
+<div class="wrap">
+  <h1><strong>现 场 执 法 告 知 书</strong></h1>
+  <table width="970" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+	<td align="right"></td>
+  </tr>
+  <tr>
+    <td><span>　　　　　　　　　　　　　　</span> 因 <span>　　　　　　　　　</span> 违反环境保护有关法规。于 <span>　　　　　　　　　</span> 发出通知，要求于 <span>　　　　　　　　　</span> 前来接受处理。</td>
+  </tr>
+  <tr>
+    <td>被检查单位当事人：<span>　　　　　　　　　　　　　　　　　　　　</span> 联系电话 <span>　　　　　　　　　　　　　　　　　　　　</span></td>
+  </tr>
+  <tr>
+  	<td align="center" style="color:red;">-----------------------------------------------------------</td>
+  </tr>
+  <tr>
+  	<td align="center" style="color:red;">----------------------------★-------------------------------</td>
+  </tr>
+  </table>
+  <h1><strong style="color:red;">现 场 执 法 告 知 书</strong></h1>
+  <table width="970" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+	<td align="right"></td>
+  </tr>
+  <tr>
+    <td>: <span>　　　　　　　　　　　　　　</span></td>
+  </tr>
+  <tr>
+    <td><span>　　　　　　　　　　　　　　　　　　　　</span>，依法进行环保执法检查时，发现你单位 <span>　　　　</span> 已违反：<span>　　　　</span> 特通知你单位负责人于 <span>　　　　</span> 前来 <span>　　　　</span> )接受处理。</td>
+  </tr>
+  <tr>
+  <td>随带：</td>
+  </tr>
+   <tr>
+  <td>1、工商营业执照；2、组织机构代码证；3、污染物排放许可证；4、身份证复印件；5、排污费发票；6、建设项目环境影响评价及环保审批资料；7、违反环保法律法规的书面检查；8、单位法定代表人的授权委托书；(复印件加盖章单位公章) 9、其他：<span>　　　　</span></td>
+  </tr>
+   <tr>
+  <td>我支队将根据违法事实，依据国家有关法律法规作出相应处理，特此通知。</td>
+  </tr>
+  <tr>
+  <td>现场检查人员：<span>　　　　</span> 联系电话：<span>　　　　</span></td>
+  </tr>
+  <tr>
+  <td align="right">年    月   日</td>
+  </tr>
+  </table>
+</div>
+</body>
+</html>

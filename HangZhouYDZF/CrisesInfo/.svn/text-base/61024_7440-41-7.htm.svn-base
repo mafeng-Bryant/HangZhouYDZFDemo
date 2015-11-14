@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="859">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="64" height="212">　</td>
+					<td width="809" height="212">一、健康危害<p>&nbsp; 侵入途径：吸入、食入。<br>
+                    &nbsp; 
+                    健康危害：短期大量接触可引起急性铍病，主要表现为急性化学性支气管炎或肺炎。肝脏往往肿大，有压痛，甚至出现黄疸。长期接触小量铍可发生慢性铍病。除无力、消瘦、食欲不振外，常有胸闷、胸痛、气短和咳嗽。X线肺部检查分三型：颗粒型、网织型和结节型。晚期可发生右心衰竭。皮肤病变有皮炎、溃疡及皮肤肉芽肿。<br>
+                    &nbsp;&nbsp;铍化合物可产生全身中毒，多经呼吸道侵入人体，主要积蓄于肺、肝、胃、骨及淋巴结等处，易在身体内积蓄，排除缓慢，引起咳嗽、气喘、呼吸困难、胸痛及体重减轻等症状。直接接触铍尘或蒸气可发生皮炎和鸡眼状溃疡，长期接触可引起贫血，颗粒性白血球减少等症状。铍中毒的初步(临床)判断方法是：急性中毒的初期表现为全身酸痛、疲乏无力、头晕、头疼、咽痛，可伴有心悸和低热。轻度和中度中毒时，可产生化学性肺炎，有明显气短和咳嗽，常有血痰，伴有胸痛，体温高达39℃左右。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 急性毒性：LD<sub>50</sub>50mg/kg(大鼠经口)；320mg/kg(兔经皮)；LC<sub>50</sub>6000mg/m<sup>3</sup>，2小时(小鼠吸入)<br>
+                    &nbsp; 刺激性：家兔经眼：20mg(24小时)，重度刺激。家兔经皮：500mg(24小时)，中度刺激。</p>
+                    <p>&nbsp; 
+                    铍及其化合物对人体有很大的毒性，铍及其化合物中氧化铍、氟化铍和硫酸铍的毒性较强，铍的工业污染来源主要有冶炼、采矿、特种材料、工具和仪器生产的废水。</p>
+                    <p>&nbsp; 
+                    迁移行为：在风化和底质的形成过程中，铍的经历和铝相似，和铝一道富集于粘土、铝钒土、磨擦生深海沉积物和其它水解沉积底质中。</p>
+                    <p>&nbsp; 
+                    危险特性：微细粉末遇强酸反应，放出氢气。与四氯化碳混合遇火花或闪火能燃烧。能与锂、磷剧烈反应。细小的铍粉和尘埃能与空气形成爆炸性混合物，易燃的程度与粒子大小有关，超细铍粉接触空气时易自燃。<br>
+                    &nbsp; 燃烧(分解)产物：可能产生有害的毒性烟雾。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="64">　</td>
+					<td height="46" width="809">
+						　		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="23" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="64">　</td>
+					<td height="46" width="809">
+						<table width="100%" border="1">
+                          <tr>
+                            <td align="middle" width="29%">监测方法</td>
+                            <td align="middle" width="37%">来源</td>
+                            <td align="middle" width="34%">类别</td>
+                          </tr>
+                          <tr>
+                            <td width="29%">亚甲基蓝分光光度法</td>
+                            <td width="37%">GB16489-1996</td>
+                            <td width="34%">水质</td>
+                          </tr>
+                          <tr>
+                            <td width="29%">直接显色分光光度法</td>
+                            <td width="37%">GB/T17133-1997</td>
+                            <td width="34%">水质</td>
+                          </tr>
+                          <tr>
+                            <td width="29%">活性炭吸附-铬天菁S光度法</td>
+                            <td width="37%">《水和废水监测分析方法(第三版)》</td>
+                            <td width="34%">水和废水</td>
+                          </tr>
+                          <tr>
+                            <td width="29%">羊毛铬花菁R分光光度法；<br>
+                            原子吸收法</td>
+                            <td width="37%">《空气和废气监测分析方法》国家环保局编</td>
+                            <td width="34%">空气和废气</td>
+                          </tr>
+                          <tr>
+                            <td width="29%">原子吸收法</td>
+                            <td width="37%">《固体废弃物试验分析评价手册》中国环境监测总站等译</td>
+                            <td width="34%">固体废弃物</td>
+                          </tr>
+                        </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="64">　</td>
+					<td height="98" width="809">
+						&nbsp;<table width="97%" border="1">
+                          <tr>
+                            <td width="25%">中国(TJ36-79)</td>
+                            <td width="36%">车间空气中有害物质的最高容许浓度</td>
+                            <td width="39%">0.001mg/m<sup>3</sup>[皮]</td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><font face="normal">中国(GB16297-1996)</font></td>
+                            <td width="36%"><font face="normal">大气污染物综合排放标准</font></td>
+                            <td width="39%"><font face="normal">①最高允许排放浓度：<br>
+                            0.015mg/m<sup>3</sup>(表1) 0.012mg/m<sup>3</sup>(表2)<br>
+                            ②最高允许排放速率(kg/h)：<br>
+                            二级1.3×10<sup>-3</sup>～52×10<sup>-3</sup>(表1)&nbsp;；1.1×10<sup>-3</sup>～44×10<sup>-3</sup>(表2)<br>
+                            三级2.0×10<sup>-3</sup>～79×10<sup>-3</sup>(表1)；1.7×10<sup>-3</sup>～67×10<sup>-3</sup>(表2)<br>
+                            </font>③无组织排放监控浓度限值(mg/m<sup>3</sup>)：0.0008(表2)；0.0010(表1)</td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><font face="normal">中国(待颁布)</font></td>
+                            <td width="36%"><font face="normal">饮用水源中有害物质的最高容许浓度</font></td>
+                            <td width="39%"><font face="normal">0.002 mg/L</font></td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><font face="normal">中国(GB/T14848-93)</font></td>
+                            <td width="36%"><font face="normal">地下水质量标准(mg/L)</font></td>
+                            <td width="39%"><font face="normal">
+                            I类0.00002；II类0.0001；III类0.0002<br>
+                            ；IV类0.001；V类0.001以上</font></td>
+                          </tr>
+                          <tr>
+                            <td width="25%"><font face="normal">中国(GB8978-1996)</font></td>
+                            <td width="36%"><font face="normal">污水综合排放标准</font></td>
+                            <td width="39%"><font face="normal">0.005mg/L</font></td>
+                          </tr>
+                        </table>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="64">　</td>
+					<td height="314" width="809">
+                    一、泄漏应急处理<p>
+                    &nbsp;&nbsp;迅速撤离泄漏污染区人员至安全区，隔离泄漏污染区，限制出入。建议应急处理人员戴自给正压式呼吸器，穿防毒服。不要直接接触泄漏物。避免扬尘，小心扫起，转移回收。</p>
+                    <p>&nbsp; 处理方法：对受铍污染的水体，可投加石灰乳中和，调pH8.5～9.5，使可溶性铍生Be(OH)<sub>2</sub>沉淀；加聚合氯化铝可提高沉淀效率。处理后的水含铍量可降至10～20μg/L。进一步采用吸附或离子交换深度处理后可接近或达到环境水质标准。对受铍污染的土壤可采用焚烧处理的方法，以使铍转化为不溶性和具有化学惰性的铍氧化物质。焚烧后的残渣可在混凝土中封装填埋。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp; 呼吸系统防护：可能接触其粉尘时，作业工人应该佩戴头罩型电动送风过滤式防尘呼吸器。必要时，佩戴隔离式呼吸器。<br>
+                    &nbsp; 眼睛防护：呼吸系统防护中已作防护。<br>
+                    &nbsp; 身体防护：穿连衣式胶布防毒衣。<br>
+                    &nbsp; 手防护：戴橡胶手套。<br>
+                    &nbsp; 其它：工作现场禁止吸烟、进食和饮水。工作毕，淋浴更衣。单独存放被毒物污染的衣服，洗后备用。实行就业前和定期的体检。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp; 皮肤接触：脱去被污染的衣着，用肥皂水和清水彻底冲洗皮肤。<br>
+                    &nbsp; 眼睛接触：提起眼睑，用流动清水或生理盐水冲洗。就医。<br>
+                    &nbsp; 吸入：迅速脱离现场至空气新鲜处。保持呼吸道通畅。如呼吸困难，给输氧。如呼吸停止，立即进行人工呼吸。就医。<br>
+                    &nbsp; 食入：饮足量温水，催吐，就医。</p>
+                    <p>&nbsp; 
+                    灭火方法：消防人员必须佩戴过滤式防毒面具(全面罩)或隔离式呼吸器、穿全身防火防毒服，在上风处灭火。灭火剂：砂土、二氧化碳。						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>

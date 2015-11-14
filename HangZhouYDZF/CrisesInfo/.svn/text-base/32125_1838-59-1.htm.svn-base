@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<TITLE>危险品详细资料</TITLE>
+		<META NAME="GENERATOR" Content="Microsoft FrontPage 5.0">
+		<LINK href="../css/CrisesInfo_Style.css" type="text/css" rel="stylesheet"></HEAD>
+	<BODY>
+			<table width="883" align="center" height="860">
+				<tr>
+					<td height="21" colspan="2" bgcolor="#ececec" width="877">
+						<span class="bingdazi">对环境的影响<a name="1"></a></span></td>
+				</tr>
+				<tr>
+					<td width="69" height="212">　</td>
+					<td width="804" height="212">一、健康危害<p>&nbsp; 侵入途径：吸入、食入、经皮吸收。<br>
+                    &nbsp; 健康危害：蒸气具有强烈的刺激粘膜作用。以各种途径进入机体均可引起严重肝损害。</p>
+                    <p>二、毒理学资料及环境行为</p>
+                    <p>&nbsp; 急性毒性：LD<sub>50</sub>124mg/kg(大鼠经口)，136mg/kg(小鼠经口)；LC<sub>50</sub>14000mg/m<sup>3</sup>2小时(小鼠吸入)<br>
+                    &nbsp; 
+                    危险特性：其蒸气与空气形成爆炸性混合物，遇明火、高热能引起燃烧爆炸。与氧化剂能发生强烈反应。其蒸气比空气重，能在较低扩散到相当远的地方，遇火源引着回燃。若高热，可能发生聚合反应，出现大量放热现象，引起容器破裂和爆炸事故。<br>
+                    &nbsp; 燃烧(分解)产物：一氧化碳、二氧化碳。<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					现场应急监测方法<span class="bingdazi"><a name="2" id="2"></a></span></td>
+				</tr>
+				<tr>
+					<td height="46" width="69">　</td>
+					
+    <td height="46" width="804"> 　
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td></td>
+        </tr>
+      </table></td>
+				</tr>
+				<tr>
+					<td height="20" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+						实验室监测方法<span class="bingdazi"><a name="3" id="3"></a></span></td>
+				</tr>
+				<tr>
+					<td height="44" width="69">　</td>
+					<td height="44" width="804">
+						气相色谱法，参照《分析化学手册》(第四分册，色谱分析)，化学工业出版社<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" class="bingdazi" width="877">
+					环境标准<span class="bingdazi"><a name="4" id="4"></a></span></td>
+				</tr>
+				<tr>
+					<td height="98" width="69">　</td>
+					<td height="98" width="804">
+						　<table width="100%" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td height="21" colspan="2" bgcolor="#ececec" width="877">
+					<p class="bingdazi">
+						应急处理处置方法<span class="bingdazi"><a name="5" id="5"></a></span><br>
+					</p>
+					</td>
+				</tr>
+				<tr>
+					<td height="314" width="69">　</td>
+					<td height="314" width="804">一、泄漏应急处理<p>
+                    &nbsp;&nbsp;疏散泄漏污染区人员至安全区，禁止无关人员进入污染区，切断火源。建议应急处理人员戴自给式呼吸器，穿厂商特别推荐的化学防护服(完全隔离)。不要直接接触泄漏物，在确保安全情况下堵漏。喷水雾会减少蒸发但不能降低泄漏物在受限制空间内的易燃性。用沙土或其它不燃性吸附剂混合吸收，然后收集运至废物处理场所处置。也可以用不燃性分散剂制成的乳液刷洗，经稀释的洗水放入废水系统。如大量泄漏，利用围堤收容，然后收集、转移、回收或无害处理后废弃。</p>
+                    <p>二、防护措施</p>
+                    <p>&nbsp;&nbsp;呼吸系统防护：空气中浓度较高时，应该佩带防毒口罩。必要时佩带自给式呼吸器。<br>
+                    &nbsp;&nbsp;眼睛防护：戴化学安全防护眼镜。<br>
+                    &nbsp;&nbsp;身体防护：穿相应的工作服。<br>
+                    &nbsp;&nbsp;手防护：戴防护手套。<br>
+                    &nbsp;&nbsp;其它：工作现场严禁吸烟。工作后，淋浴更衣。注意个人清洁卫生。</p>
+                    <p>三、急救措施</p>
+                    <p>&nbsp;&nbsp;皮肤接触：脱去污染的衣着，用流动清水冲洗。<br>
+                    &nbsp;&nbsp;眼睛接触：立即提起眼睑，用流动清水冲洗。<br>
+                    &nbsp;&nbsp;吸入：脱离现场至空气新鲜处。必要时进行人工呼吸。就医。<br>
+                    &nbsp;&nbsp;食入：误服者给饮大量温水，催吐，就医。</p>
+                    <p>&nbsp; 灭火方法：泡沫、干粉、二氧化碳、砂土。用水灭火无效。						<table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td>
+								</td>
+							</tr>
+						</table>
+				</td>
+			</tr>
+		</table>
+		</TD> </TR> </TABLE>
+	</BODY>
+</HTML>
